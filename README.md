@@ -23,7 +23,7 @@ Accordingly , MBTI is currently considered to be one of the most sought after an
 
 The MBTI Personality trait model can be an extremely beneficial tool in a business setting particularly during the employment process. As such indicator can contribute towards helping companies, particularly the HR team, comprehend and further understand individuals overall motivations and occupational behaviour. Subsequently, this model can be portrayed as a way to help employees focus on utilizing their strengths and ameliorating their weaknesseses in line with their personality type.
 
-#About the Dataset
+# About the Dataset
 
 This dataset contains over 8600 rows of data, on each row is an individuals':
 
